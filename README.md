@@ -24,6 +24,3 @@ This isn't just a career switch—it's a roadmap toward something greater. My jo
 
 Feel free to explore the projects and code samples here. They represent the steps along my journey from **WordPress** to **MERN Stack**, with every line of code bringing me closer to my ultimate goal!
 
----
-
-This version clearly lays out your goals while giving your journey a more professional, personal touch. What do you think?
