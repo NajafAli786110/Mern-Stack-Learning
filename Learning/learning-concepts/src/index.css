@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body{
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.main-container{
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.task-history{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+}
+
+.action-buttons{
+  display: flex;
+  gap: 4px;
+}
+.demo-input{
+  display: none;
+}
+form{
+  position: relative;
+}
+.demo-input-active{
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  z-index: 999;
+}
+.demo{
+  opacity: 0;
+  transform: scale(0.2);
+}
